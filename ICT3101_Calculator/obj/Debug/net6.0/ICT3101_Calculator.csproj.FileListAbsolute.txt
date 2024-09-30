@@ -1,0 +1,15 @@
+/Users/muhdhakim/RiderProjects/ICT3101_Calculator/ICT3101_Calculator/bin/Debug/net6.0/ICT3101_Calculator
+/Users/muhdhakim/RiderProjects/ICT3101_Calculator/ICT3101_Calculator/bin/Debug/net6.0/ICT3101_Calculator.deps.json
+/Users/muhdhakim/RiderProjects/ICT3101_Calculator/ICT3101_Calculator/bin/Debug/net6.0/ICT3101_Calculator.runtimeconfig.json
+/Users/muhdhakim/RiderProjects/ICT3101_Calculator/ICT3101_Calculator/bin/Debug/net6.0/ICT3101_Calculator.dll
+/Users/muhdhakim/RiderProjects/ICT3101_Calculator/ICT3101_Calculator/bin/Debug/net6.0/ICT3101_Calculator.pdb
+/Users/muhdhakim/RiderProjects/ICT3101_Calculator/ICT3101_Calculator/obj/Debug/net6.0/ICT3101_Calculator.csproj.AssemblyReference.cache
+/Users/muhdhakim/RiderProjects/ICT3101_Calculator/ICT3101_Calculator/obj/Debug/net6.0/ICT3101_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhdhakim/RiderProjects/ICT3101_Calculator/ICT3101_Calculator/obj/Debug/net6.0/ICT3101_Calculator.AssemblyInfoInputs.cache
+/Users/muhdhakim/RiderProjects/ICT3101_Calculator/ICT3101_Calculator/obj/Debug/net6.0/ICT3101_Calculator.AssemblyInfo.cs
+/Users/muhdhakim/RiderProjects/ICT3101_Calculator/ICT3101_Calculator/obj/Debug/net6.0/ICT3101_Calculator.csproj.CoreCompileInputs.cache
+/Users/muhdhakim/RiderProjects/ICT3101_Calculator/ICT3101_Calculator/obj/Debug/net6.0/ICT3101_Calculator.dll
+/Users/muhdhakim/RiderProjects/ICT3101_Calculator/ICT3101_Calculator/obj/Debug/net6.0/refint/ICT3101_Calculator.dll
+/Users/muhdhakim/RiderProjects/ICT3101_Calculator/ICT3101_Calculator/obj/Debug/net6.0/ICT3101_Calculator.pdb
+/Users/muhdhakim/RiderProjects/ICT3101_Calculator/ICT3101_Calculator/obj/Debug/net6.0/ICT3101_Calculator.genruntimeconfig.cache
+/Users/muhdhakim/RiderProjects/ICT3101_Calculator/ICT3101_Calculator/obj/Debug/net6.0/ref/ICT3101_Calculator.dll

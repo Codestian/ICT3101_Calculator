@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ICT3101_Calculator/1.0.0": {
+        "runtime": {
+          "ICT3101_Calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ICT3101_Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
