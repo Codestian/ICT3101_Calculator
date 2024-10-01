@@ -1,6 +1,19 @@
 jobs:
   build:
-  runs-on: windows-latest
-  defaults:
-    run:
-     working-directory: ./ICT3101_Calculator.UnitTests
+    runs-on: windows-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v2
+        with:
+          dotnet-version: '6.x' # Change this to your required .NET version
+
+      - name: NUnit Tests
+        working-directory: ICT3101_Calculator.UnitTests/
+        run: dotnet test --no-build --verbosity normal
+
+      - name: SpecFlow Tests
+        working-directory: SpecFlowCalculatorTests/
+        run: dotnet test --no-build --verbosity normal
